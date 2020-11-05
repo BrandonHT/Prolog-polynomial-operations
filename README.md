@@ -8,7 +8,7 @@ The operations to be performed are:
 * Integral of polynomials
 * Evaluation of polynomials
 
-* **Authors:**
+**Authors:**
   * Castillo Gómez, Rodrigo
   * Hernández Troncoso, Brandon Francisco
   * Obeid Guzmán, Alexander
