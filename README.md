@@ -9,7 +9,7 @@ The operations to be performed are:
 * Evaluation of polynomials
 
 **Authors:**
-*
+* 
   * Castillo Gómez, Rodrigo
   * Hernández Troncoso, Brandon Francisco
   * Obeid Guzmán, Alexander
